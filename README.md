@@ -11,7 +11,8 @@ Respecto a toda la música que está en este repositorio, **puedes hacer con lib
 <br>
 
 ## Herramientas utilizadas para la producción de los temas
-#### NOTA:&emsp;Todas estas herramientas son gratuitas y además son software libre, aunque algunas de ellas puede ser un poco difícil de instalar en Windows. Hasta ahora no utilicé ninguna librería externa de sonidos ni nada por el estilo. Si encuentras información incorrecta o páginas caídas en este repositorio (o si necesitas ayuda con alguna intalación), házmelo saber al correo electrónico ariel.leiva0604@gmail.com.
+#### NOTA:
+&emsp;Todas estas herramientas son gratuitas y además son software libre, aunque algunas de ellas puede ser un poco difícil de instalar en Windows. Hasta ahora no utilicé ninguna librería externa de sonidos ni nada por el estilo. Si encuentras información incorrecta o páginas caídas en este repositorio (o si necesitas ayuda con alguna intalación), házmelo saber al correo electrónico ariel.leiva0604@gmail.com.
 
 ### [DAWS](https://es.wikipedia.org/wiki/Estaci%C3%B3n_de_trabajo_de_audio_digital):
 
