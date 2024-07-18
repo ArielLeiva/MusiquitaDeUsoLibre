@@ -2,7 +2,7 @@
 &emsp;Un repositorio de temas que he ido produciendo a lo largo del tiempo, con licencia libre para que cualquier persona (o máquina, quién sabe O.o) pueda utilizarlo.
 
 ## Sobre la licencia
-Respecto a toda la música que está en este repositorio, **puedes hacer con libertad** (lo que está en **negrita**) y <ins> debes cumplir</ins> (lo que está <ins>subrayado</ins>):
+Respecto a toda la música que está en este repositorio, **puedes hacer con libertad** (lo que está en **negrita**) y <ins> debes cumplir</ins> (con lo que está <ins>subrayado</ins>):
 <br>
 1. **Utilizarla en cualquier tipo de proyecto sin necesidad de modificarla**, incluso con fines comerciales mientras que el proyecto no consista precisamente en el tema musical en sí mismo (o solamente una simple modificación del mismo). Si lo que se desea es eso último, ver el próximo apartado.
 2. **Modificarla** de cualquier forma, <ins>siempre y cuando</ins> la distribución <b>del tema en sí mismo</b> (mas **no necesariamente el proyecto** en el que se use) <ins>mantenga la licencia con la que se está publicando, informando de esto y otorgando</ins> el [enlace a la información sobre la misma][cc-by-sa].
