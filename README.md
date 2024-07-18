@@ -1,8 +1,8 @@
 # Musiquita de uso libre
-Un repositorio de temas que he ido produciendo a lo largo del tiempo, con licencia libre para que cualquier persona pueda utilizarlo.
+&emsp;Un repositorio de temas que he ido produciendo a lo largo del tiempo, con licencia libre para que cualquier persona (o máquina, quien sabe O.o) pueda utilizarlo.
 
 ## Sobre la licencia
-Respecto a toda la música que está en este repositorio, **puedes con libertad** y <ins> debes cumplir</ins>:
+Respecto a toda la música que está en este repositorio, **puedes hacer con libertad** (lo que está en **negrita**) y <ins> debes cumplir</ins> (lo que está <ins>subrayado</ins>):
 <br>
 1. **Utilizarla en cualquier tipo de proyecto sin necesidad de modificarla**, incluso con fines comerciales mientras que el proyecto no consista precisamente en el tema musical en sí mismo (o solamente una simple modificación del mismo). Si lo que se desea es eso último, ver el próximo apartado.
 2. **Modificarla** de cualquier forma, <ins>siempre y cuando</ins> la distribución <b>del tema en sí mismo</b> (mas **no necesariamente el proyecto** en el que se use) <ins>mantenga la licencia con la que se está publicando, informando de esto y otorgando</ins> el [enlace a la información sobre la misma][cc-by-sa].
@@ -11,7 +11,7 @@ Respecto a toda la música que está en este repositorio, **puedes con libertad*
 <br>
 
 ## Herramientas utilizadas para la producción de los temas
-#### NOTA: Todas estas herramientas son gratuitas y además son software libre, aunque algunas de ellas puede ser un poco difícil de instalar en Windows. Hasta ahora no utilicé ninguna librería externa de sonidos ni nada por el estilo.
+#### NOTA:&emsp;Todas estas herramientas son gratuitas y además son software libre, aunque algunas de ellas puede ser un poco difícil de instalar en Windows. Hasta ahora no utilicé ninguna librería externa de sonidos ni nada por el estilo. Si encuentras información incorrecta o páginas caídas en este repositorio (o si necesitas ayuda con alguna intalación), házmelo saber al correo electrónico ariel.leiva0604@gmail.com.
 
 ### [DAWS](https://es.wikipedia.org/wiki/Estaci%C3%B3n_de_trabajo_de_audio_digital):
 
@@ -27,9 +27,9 @@ Respecto a toda la música que está en este repositorio, **puedes con libertad*
 - [Geonkick](https://geonkick.org/): Otro sintetizador que utilizo, que está especialmente dedicado a los instrumentos percusivos. 
 
 
-<br>
 
-Y nada más! Si te interesa aprender cosas sobre producción musical, te recomiendo fuertemente el canal de YouTube [Unfa](https://www.youtube.com/@unfa00), que tiene tutoriales sobre la mayoría de las herramientas que hablé (salvo sobre las últimas versiones de LMMS, pero hay muchos tutoriales de otros canales sobre eso).
+### Y nada más!
+&emsp; Si te interesa aprender cosas sobre producción musical, te recomiendo fuertemente el canal de YouTube [Unfa](https://www.youtube.com/@unfa00), que tiene tutoriales sobre la mayoría de las herramientas que mencioné (salvo sobre las últimas versiones de LMMS, pero hay muchos tutoriales de otros canales sobre eso).
 
 <br>
 
