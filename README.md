@@ -1,5 +1,5 @@
 # Musiquita de uso libre
-&emsp;Un repositorio de temas que he ido produciendo a lo largo del tiempo, con licencia libre para que cualquier persona (o máquina, quien sabe O.o) pueda utilizarlo.
+&emsp;Un repositorio de temas que he ido produciendo a lo largo del tiempo, con licencia libre para que cualquier persona (o máquina, quién sabe O.o) pueda utilizarlo.
 
 ## Sobre la licencia
 Respecto a toda la música que está en este repositorio, **puedes hacer con libertad** (lo que está en **negrita**) y <ins> debes cumplir</ins> (lo que está <ins>subrayado</ins>):
