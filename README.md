@@ -1,11 +1,11 @@
 # Musiquita de uso libre
 Un repositorio de temas que he ido produciendo a lo largo del tiempo, con licencia libre para que cualquier persona pueda utilizarlo.
 
-Respecto a toda la música que está en este repositorio, <font color='green'>puedes con libertad</font> y <font color='orange'> debes cumplir</font>:
+Respecto a toda la música que está en este repositorio, **puedes con libertad** y <ins> debes cumplir</ins>:
 <br>
-1. <font color='green'>Utilizarla en cualquier tipo de proyecto sin necesidad de modificarla</font>, incluso con fines comerciales mientras que el proyecto no consista precisamente en el tema musical en sí mismo (o solamente una simple modificación del mismo). Si lo que se desea es eso último, ver el próximo apartado.
-2. <font color='green'>Modificarla</font> de cualquier forma, <font color='orange'>siempre y cuando</font> la distribución <b>del tema en sí mismo</b> (mas <font color='green'>no necesariamente el proyecto</font> en el que se use) <font color='orange'>mantenga la licencia con la que se está publicando, informando de esto y otorgando el enlace a la información de la misma</font> que se encuentra al final de este texto.
-3. Si se utiliza alguno de los temas musicales, es <font color='orange'>necesario incluir en algún lado que es de mi autoría</font>. <font color='green'>Basta con que se relacione mi nombre ("Ariel Leiva") con el tema en algún momento</font>.
+1. **Utilizarla en cualquier tipo de proyecto sin necesidad de modificarla**, incluso con fines comerciales mientras que el proyecto no consista precisamente en el tema musical en sí mismo (o solamente una simple modificación del mismo). Si lo que se desea es eso último, ver el próximo apartado.
+2. **Modificarla** de cualquier forma, <ins>siempre y cuando</ins> la distribución <b>del tema en sí mismo</b> (mas **no necesariamente el proyecto** en el que se use) <ins>mantenga la licencia con la que se está publicando, informando de esto y otorgando el enlace a la información de la misma</ins> que se encuentra al final de este texto.
+3. Si se utiliza alguno de los temas musicales, es <ins>necesario incluir en algún lado que es de mi autoría</ins>. **Basta con que se relacione mi nombre ("Ariel Leiva") con el tema en algún momento**.
 
 <br>
 
